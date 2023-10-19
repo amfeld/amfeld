@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Alex, 
+
+and I am currently studying Computer Engineering in my Masters (as a minor). 
+I’m currently learning programming with Java and Python and working on small little porjects to understand how to code. 
+Fun fact: I am interested in smart home applications and I also have my own Homebridge and PiHole running on a RaspberryPI. 
+
+
 <!--
 **amfeld/amfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
